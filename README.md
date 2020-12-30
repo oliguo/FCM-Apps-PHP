@@ -7,6 +7,7 @@
     3. Try run 'php -S localhost:5000' on the terminal to run php program to send the push message.
 
 ## AOS
-
+<image src="https://github.com/oliguo/FCM-Apps-PHP/blob/main/aos/aos.gif" height="300">
 
 ## iOS
+<image src="https://github.com/oliguo/FCM-Apps-PHP/blob/main/ios/ios.gif" height="300">
