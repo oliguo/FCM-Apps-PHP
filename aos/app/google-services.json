@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119051521056",
+    "firebase_url": "https://apps-279708.firebaseio.com",
+    "project_id": "apps-279708",
+    "storage_bucket": "apps-279708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119051521056:android:3c98915394ce6306af8045",
+        "android_client_info": {
+          "package_name": "com.hkdnracing.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119051521056-vaaj6fg4oodrh2pq93rafr7memk1agpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwNYEbDCxa21tWBYpL5uKXc3ekXG8AzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119051521056-vaaj6fg4oodrh2pq93rafr7memk1agpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
